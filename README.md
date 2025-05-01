@@ -50,6 +50,12 @@ This repository contains a simple yet functional To-Do List web application buil
 - Click "Delete All" to clear the entire task list.
 - Further enhancing can be done to make the task are saved to a JSON file and will persist even after closing and reopening the application.
 
+## Live Demo
+
+This repo was deployed on netlify.
+
+👉 [Live Demo for To Do app](https://kabilan-to-do.netlify.app/)  
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure to follow the existing code style and include appropriate comments.
